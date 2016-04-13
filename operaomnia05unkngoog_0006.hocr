@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomnia05unkngoog/operaomnia05unkngoog_0006.png"; bbox 0 0 3100 4925; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 72 36 1715 346">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 72 36 1715 346">
+     <span class='ocr_line' id='line_1_1' title="bbox 72 36 1715 346; baseline -0.001 -72"><span class='ocrx_word' id='word_1_1' title='bbox 72 193 75 196; x_wconf 10' lang='grc' dir='ltr'><strong>Α</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 203 36 830 274; x_wconf 45' lang='lat' dir='ltr'>dxx</span> <span class='ocrx_word' id='word_1_3' title='bbox 845 94 1315 346; x_wconf 53' lang='lat'>423</span> <span class='ocrx_word' id='word_1_4' title='bbox 1480 101 1715 236; x_wconf 42' lang='grc' dir='ltr'>ω</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3029 59 3030 660">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3029 59 3030 660">
+     <span class='ocr_line' id='line_1_2' title="bbox 3029 59 3030 660; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 3029 59 3030 660; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3029 511 3030 1500">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3029 511 3030 1500">
+     <span class='ocr_line' id='line_1_3' title="bbox 3029 511 3030 1500; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 3029 511 3030 1500; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 3029 511 3030 2999">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 3029 511 3030 2999">
+     <span class='ocr_line' id='line_1_4' title="bbox 3029 511 3030 2999; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 3029 511 3030 2999; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
